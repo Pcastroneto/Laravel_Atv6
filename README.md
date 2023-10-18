@@ -1,2 +1,2 @@
 # Laravel_Atv6
-6a Atividade LARAVEL de DevWEB
+Sexta aula de dev web Atividade LARAVEL
